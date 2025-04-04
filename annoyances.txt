@@ -2517,3 +2517,20 @@ www.history.com##.ForcedTermsOfUse-module__touContainer___1ZtjI
 
 ! 10 Feb 2025 https://www.okayplayer.com
 www.okayplayer.com##.register-block
+
+! Mar 14, 2025 https://duckduckgo.com
+duckduckgo.com##.js-header-aside.header--aside
+
+! 28 Mar 2025 https://tumblr.com
+||www.tumblr.com/dashboard/iframe/consent$subdocument
+tumblr.com##.tmblr-iframe--gdpr-banner
+
+! 28 Mar 2025 https://www.thewindowsclub.com
+www.thewindowsclub.com##.cgptcb-body
+www.thewindowsclub.com##.a2a_vertical_style.a2a_floating_style.a2a_kit_size_32.a2a_kit
+
+! 4 Apr 2025 https://duckduckgo.com
+duckduckgo.com##.E4_TKgKL7YzziY_dW6E9
+duckduckgo.com##.footer
+
+
