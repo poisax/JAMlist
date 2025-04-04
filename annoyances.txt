@@ -2548,5 +2548,14 @@ fandomwire.com##.g1-light.g1-socials-section.g1-row-layout-page.g1-row
 fandomwire.com##.entry-tags
 fandomwire.com##.share-container
 
+! 4 Apr 2025 https://www.gamesradar.com
+www.gamesradar.com##.exit-intent__background.exit-intent
+www.gamesradar.com###widgetArea17
+www.gamesradar.com###slice-container-newsletterForm-articleInbodyContent-iv9jknDxzKfy73JYjzC7k8
+www.gamesradar.com##.block
+www.gamesradar.com##.my-5.mx-2
+www.gamesradar.com##.xs\:flex
+www.gamesradar.com###viafoura-comments-container
+
 
 
