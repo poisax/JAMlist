@@ -1487,10 +1487,6 @@ gnd-tech.com##.comments-area
 gnd-tech.com###footer
 gnd-tech.com###copyright
 
-! 2022-02-07 https://www.worldoftwinksxxx.com
-||www.worldoftwinksxxx.com/yes/luck.php?FR0=OzsSNxEfSmp8IlU5dy1kHFx0NTIBDlFcQgwBGn5bACFAMxU1WlkHYnFdXVdlWU90VA1GJ2UyAnl8fGUGCT8yMl5bAlQKVgIMZwFZcgExVXRCXFc3bw8MHikFHyUDXxIgZWRedXErM1dYbDJpXVkGC19TUFgyBVxyAA%3D%3D$image
-||www.worldoftwinksxxx.com/yes/luck.php$image
-
 ! 2022-05-07 https://www.google.com
 www.google.com##.yiAgHf
 
@@ -1498,12 +1494,6 @@ www.google.com##.yiAgHf
 duckduckgo.com##.header__label
 duckduckgo.com##.js-serp-bottom-right
 duckduckgo.com##.js-header-logo
-
-! 2022-05-08 https://www.funda.nl
-www.funda.nl##.group.app-header__banner-ukraine
-
-! 2022-05-09 https://steamid.xyz
-steamid.xyz###war_in_ukraine
 
 ! 2022-05-09 https://intl.startrek.com
 intl.startrek.com##.story-links-vertical.story-links
