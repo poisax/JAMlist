@@ -1,3 +1,15 @@
+! Title: personal ublock origin/adnauseum filter list
+! Last modified: %timestamp%
+! Expires: 7 days
+! Description: personal ublock origin/adnauseum filter list since so many articles are bloated
+! License: https://github.com/poisax/JAMlist/blob/master/LICENSE
+! Homepage: https://github.com/poisax/JAMlist
+!
+! GitHub issues: https://github.com/poisax/JAMlist/issues
+! GitHub pull requests: https://github.com/poisax/JAMlist/pulls
+
+
+
 ! 2023-08-23 https://m.youtube.com
 ||lh6.googleusercontent.com/proxy/aY2wkUZTZX9yJXQrBTJDbN11wLsruT5aQJwxPP4-eIeIY8VVQ8uZvttm0WMPol3obCbsP8thmdbBgJJMIfpNFLWHWz9oU9LDXiv5qNwnzVt3f3vMlrzQymWGITfOTx-USSB-$image
 ||lh6.googleusercontent.com/proxy/aY2wkUZTZX9yJXQrBTJDbN11wLsruT5aQJwxPP4-eIeIY8VVQ8uZvttm0WMPol3obCbsP8thmdbBgJJMIfpNFLWHWz9oU9LDXiv5qNwnzVt3f3vMlrzQymWGITfOTx-USSB-$image
