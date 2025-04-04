@@ -2546,4 +2546,7 @@ fandomwire.com##.wpgtrM-post-sections
 fandomwire.com##.g1-footer
 fandomwire.com##.g1-light.g1-socials-section.g1-row-layout-page.g1-row
 fandomwire.com##.entry-tags
+fandomwire.com##.share-container
+
+
 
