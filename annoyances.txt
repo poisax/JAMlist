@@ -1,4 +1,4 @@
-! Title: personal ublock origin/adnauseum filter list
+! Title: disable this if something isn't working
 ! Last modified: %timestamp%
 ! Expires: 7 days
 ! Description: personal ublock origin/adnauseum filter list since so many articles are bloated
