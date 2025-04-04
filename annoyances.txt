@@ -2534,3 +2534,16 @@ duckduckgo.com##.E4_TKgKL7YzziY_dW6E9
 duckduckgo.com##.footer
 
 
+! 4 Apr 2025 https://fandomwire.com
+fandomwire.com###secondary
+fandomwire.com##.g1-hb-shadow-off
+fandomwire.com##.g1-hb-sticky-off
+fandomwire.com##.g1-loaded.g1-hb-row-3.g1-sticky-top-wrapper
+fandomwire.com##.g1-row-breadcrumbs
+fandomwire.com##.fwap-related-header
+fandomwire.com##.fwap-related-content
+fandomwire.com##.wpgtrM-post-sections
+fandomwire.com##.g1-footer
+fandomwire.com##.g1-light.g1-socials-section.g1-row-layout-page.g1-row
+fandomwire.com##.entry-tags
+
