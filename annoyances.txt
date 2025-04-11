@@ -2557,5 +2557,14 @@ www.gamesradar.com##.my-5.mx-2
 www.gamesradar.com##.xs\:flex
 www.gamesradar.com###viafoura-comments-container
 
+! 11 Apr 2025 https://blender.stackexchange.com
+blender.stackexchange.com###credential_picker_container
+blender.stackexchange.com##.left-sidebar
+blender.stackexchange.com##.mb16.s-anchors__grayscale.s-anchors.s-sidebarwidget__yellow.s-sidebarwidget
+blender.stackexchange.com##.tex2jax_ignore.module
+blender.stackexchange.com##.js-top-bar.l0.t0.ps-fixed.s-topbar
+blender.stackexchange.com###footer
+blender.stackexchange.com##.site-header
+
 
 
